@@ -6,9 +6,12 @@ HORISEON Search Engine Optimization website
 A website detailing the necessity of SEO and adveritiding the Horiseon company.
 
 Goals:
-    Refactor the existing code of the website to meet accessability standards.
-    Cite all changes and tidy up code for future developers.
-    Upload to Github repository and host with Gitpages. 
+   
+   Refactor the existing code of the website to meet accessability standards.
+   
+   Cite all changes and tidy up code for future developers.
+   
+   Upload to Github repository and host with Gitpages. 
 
 ##Credits
 
