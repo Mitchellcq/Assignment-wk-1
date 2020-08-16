@@ -7,11 +7,11 @@ A website detailing the necessity of SEO and adveritiding the Horiseon company.
 
 Goals:
    
-   Refactor the existing code of the website to meet accessability standards.
+   -Refactor the existing code of the website to meet accessability standards.
    
-   Cite all changes and tidy up code for future developers.
+   -Cite all changes and tidy up code for future developers.
    
-   Upload to Github repository and host with Gitpages. 
+   -Upload to Github repository and host with Gitpages. 
 
 ##Credits
 
